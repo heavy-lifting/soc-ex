@@ -1,4 +1,5 @@
 {"_base":"https://raw.githubusercontent.com/heavy-lifting/soc-ex/main/",
  "bow":["sounds/bow.wav"],
- "emub":["sounds/emub.wav"]
+ "emub":["sounds/emub.wav"],
+ "long":["long/0.wav","long/1.wav","long/2.wav","long/3.wav","long/4.wav","long/5.wav","long/6.wav","long/7.wav","long/8.wav","long/9.wav","long/10.wav"]
 }

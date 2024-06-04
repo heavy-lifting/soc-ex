@@ -2,5 +2,5 @@
  "bow":["sounds/bow.wav"],
  "emub":["sounds/emub.wav"],
  "long":["long/0.wav","long/1.wav","long/2.wav","long/3.wav","long/4.wav","long/5.wav","long/6.wav","long/7.wav","long/8.wav","long/9.wav","long/10.wav"],
- "perc":["per/0.wav","per/1.wav","per/2.wav","per/3.wav","per/4.wav","per/5.wav","per/6.wav","per/7.wav","per/8.wav","per/9.wav","per/10.wav","per/11.wav","per/12.wav","per/13.wav","per/14.wav","per/15.wav","per/16.wav","per/17.wav","per/18.wav","per/19.wav"]
+ "per":["per/0.wav","per/1.wav","per/2.wav","per/3.wav","per/4.wav","per/5.wav","per/6.wav","per/7.wav","per/8.wav","per/9.wav","per/10.wav","per/11.wav","per/12.wav","per/13.wav","per/14.wav","per/15.wav","per/16.wav","per/17.wav","per/18.wav"]
 }
